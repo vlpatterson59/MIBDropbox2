@@ -5,8 +5,9 @@
       <map>
         <entry key="..\:/Users/vpatterson/StudioProjects/MIBDropbox2/app/src/main/res/layout/activity_main.xml" value="0.16847826086956522" />
         <entry key="..\:/Users/vpatterson/StudioProjects/MIBDropbox2/app/src/main/res/layout/fragment_login.xml" value="0.21" />
-        <entry key="..\:/Users/vpatterson/StudioProjects/MIBDropbox2/app/src/main/res/layout/fragment_register.xml" value="0.18" />
+        <entry key="..\:/Users/vpatterson/StudioProjects/MIBDropbox2/app/src/main/res/layout/fragment_register.xml" value="0.22" />
         <entry key="..\:/Users/vpatterson/StudioProjects/MIBDropbox2/app/src/main/res/layout/fragment_retrieve.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/vpatterson/StudioProjects/MIBDropbox2/app/src/main/res/layout/fragment_retrieve_transfer_selection.xml" value="0.2028985507246377" />
       </map>
     </option>
   </component>
